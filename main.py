@@ -8,7 +8,8 @@ async def saludar():
     return {"saludar": "hola mundo"}
 
 #comentario
-def 
+def perro():
+    return 5
 
 
 
